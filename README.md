@@ -2,7 +2,7 @@
 
 # italian-municipalities-twinnings
  
-This Python script scrapes data from the Italian Wikipedia to get a list of all the twinnings of the Italian municipalities between them and the rest of the world.
+This Python script scrapes data from the Italian Wikipedia to get a list of all the twinnings of the Italian municipalities *(comuni)* between them and the rest of the world.
 
 Data is stored in two CSV files:
 - **twinnings.csv** is used for municipalities that have at least one twinning and contains the following information:
