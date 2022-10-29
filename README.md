@@ -10,6 +10,8 @@ Data is stored in two CSV files:
     - **country** and **name** of the twinned municipality *(which can be Italian or foreign)*
 - **twinningless.csv** is used for municipalities that do not currently have any twinnings: it simply stores their country, region, province and name.
 
+An example of SQL query is also available: it sorts the municipalities by twinnings count in descending order.
+
 ## Dependencies
 
 All the necessary libraries are listed in the *requirements.txt* file.
