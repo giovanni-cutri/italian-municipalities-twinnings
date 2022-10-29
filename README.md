@@ -1,3 +1,5 @@
+![Socialify](https://github.com/giovanni-cutri/italian-municipalities-twinnings/blob/main/resources/socialify-logo.png)
+
 # italian-municipalities-twinnings
  
 This Python script scrapes data from the Italian Wikipedia to get a list of all the twinnings of the Italian municipalities between them and the rest of the world.
