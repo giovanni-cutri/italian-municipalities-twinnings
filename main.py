@@ -69,11 +69,14 @@ def get_twinnings(municipalities):
         for j, k in zip(countries_tags, names_tags):
             country = j.attrs["title"]
             name = k.getText()
-            new_twinning = {
-                "country": country,
-                "name": name
-            }
-            municipalities[i]["twinnings"].append(new_twinning)
+            # in some cases, flags are not used for twinnings, but for other purposes
+            # and the two fields coincide
+            if country != name:
+                new_twinning = {
+                    "country": country,
+                    "name": name
+                }
+                municipalities[i]["twinnings"].append(new_twinning)
     return municipalities
 
 
@@ -105,11 +108,11 @@ def save(tw_dictionary):
     # save municipalities without twinnings in a list
     with open("twinningless.csv", "w", newline='', encoding='utf-8') as f:
         twinningless_writer = csv.writer(f, delimiter=",")
-        twinningless_writer.writerow(["region", "province", "name"])
+        twinningless_writer.writerow(["country", "region", "province", "name"])
         for i in municipalities_without_twinnings:
             print("Saving information for twinningless municipality " + i[2] + "...")
             i[2] = i[2].lower()
-            twinningless_writer.writerow(i)
+            twinningless_writer.writerow(["italia", i[0], i[1], i[2]])
 
 
 if __name__ == "__main__":

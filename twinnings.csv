@@ -40,7 +40,6 @@ italia,toscana,pistoia,agliana,palestina,beit sahour
 italia,veneto,padova,agna,italia,camerino
 italia,veneto,belluno,agordo,italia,zugliano
 italia,veneto,belluno,agordo,francia,dolomieu
-italia,lazio,roma,agosta,romania,romania
 italia,lombardia,monza e della brianza,agrate brianza,rep. ceca,česká třebová
 italia,sicilia,agrigento,agrigento,argentina,mar del plata
 italia,sicilia,agrigento,agrigento,tunisia,nabeul
@@ -256,7 +255,6 @@ italia,lazio,frosinone,arpino,svezia,östersund
 italia,veneto,padova,arquà petrarca,francia,fontaine-de-vaucluse
 italia,veneto,rovigo,arquà polesine,francia,vourles
 italia,veneto,padova,arre,francia,warmeriville
-italia,lazio,roma,arsoli,romania,romania
 italia,lazio,roma,arsoli,bosnia ed erzegovina,blagaj
 italia,lazio,roma,arsoli,bosnia ed erzegovina,mostar
 italia,friuli-venezia giulia,udine,arta terme,italia,noale
@@ -307,10 +305,6 @@ italia,piemonte,asti,asti,stati uniti,contea di miami-dade
 italia,piemonte,asti,asti,francia,valence
 italia,piemonte,asti,asti,germania,biberach an der riß
 italia,piemonte,asti,asti,israele,ma'alot-tarshiha
-italia,campania,salerno,atena lucana,romania,romania
-italia,campania,salerno,atena lucana,ucraina,ucraina
-italia,campania,salerno,atena lucana,india,india
-italia,campania,salerno,atena lucana,nigeria,nigeria
 italia,campania,salerno,atena lucana,grecia,meliki
 italia,campania,salerno,atena lucana,italia,grottaglie
 italia,abruzzo,teramo,atri,italia,conversano
@@ -341,7 +335,6 @@ italia,trentino-alto adige,trento,avio,italia,cavriana
 italia,sicilia,siracusa,avola,lituania,trakai
 italia,sicilia,siracusa,avola,francia,montauban
 italia,campania,napoli,bacoli,grecia,kymi
-italia,campania,napoli,bacoli,marche,marche
 italia,campania,napoli,bacoli,siria,kobanê
 italia,veneto,verona,badia calavena,germania,adlkofen
 italia,veneto,rovigo,badia polesine,spagna,estepa
@@ -680,12 +673,6 @@ italia,piemonte,cuneo,busca,argentina,san marcos sud
 italia,piemonte,cuneo,busca,argentina,cruz alta (córdoba)
 italia,lombardia,monza e della brianza,busnago,francia,heyrieux
 italia,lombardia,monza e della brianza,busnago,italia,sorso
-italia,emilia-romagna,parma,busseto,india,india
-italia,emilia-romagna,parma,busseto,marocco,marocco
-italia,emilia-romagna,parma,busseto,romania,romania
-italia,emilia-romagna,parma,busseto,tunisia,tunisia
-italia,emilia-romagna,parma,busseto,albania,albania
-italia,emilia-romagna,parma,busseto,moldavia,moldavia
 italia,emilia-romagna,parma,busseto,francia,carry-le-rouet
 italia,emilia-romagna,parma,busseto,spagna,hornachuelos
 italia,emilia-romagna,parma,busseto,austria,salisburgo
@@ -1263,7 +1250,6 @@ italia,abruzzo,l'aquila,civitella roveto,romania,domasnea
 italia,abruzzo,l'aquila,civitella roveto,grecia,erythres
 italia,piemonte,cuneo,clavesana,italia,rogno
 italia,calabria,cosenza,cleto,italia,san mango d'aquino
-italia,lombardia,varese,clivio,albania,albania
 italia,lombardia,bergamo,clusone,francia,le raincy
 italia,piemonte,torino,coazze,francia,decazeville
 italia,piemonte,asti,cocconato,francia,caissargues
@@ -1863,11 +1849,6 @@ italia,abruzzo,chieti,gessopalena,italia,cupramontana
 italia,abruzzo,chieti,gessopalena,belgio,sambreville
 italia,campania,avellino,gesualdo,italia,venosa
 italia,piemonte,verbano-cusio-ossola,ghiffa,francia,bilieu
-italia,piemonte,verbano-cusio-ossola,ghiffa,germania,germania
-italia,piemonte,verbano-cusio-ossola,ghiffa,sri lanka,sri lanka
-italia,piemonte,verbano-cusio-ossola,ghiffa,cina,cina
-italia,piemonte,verbano-cusio-ossola,ghiffa,ucraina,ucraina
-italia,piemonte,verbano-cusio-ossola,ghiffa,romania,romania
 italia,veneto,rovigo,giacciano con baruchella,lettonia,ludza
 italia,piemonte,torino,giaglione,francia,val-cenis
 italia,sicilia,catania,giarre,italia,cismon del grappa
@@ -1889,10 +1870,6 @@ italia,puglia,bari,giovinazzo,australia,leichhardt
 italia,abruzzo,teramo,giulianova,italia,mantova
 italia,veneto,treviso,godega di sant'urbano,francia,l'isle-en-dodon
 italia,veneto,treviso,godega di sant'urbano,brasile,cordeirópolis
-italia,sicilia,palermo,godrano,albania,albania
-italia,sicilia,palermo,godrano,romania,romania
-italia,sicilia,palermo,godrano,marocco,marocco
-italia,sicilia,palermo,godrano,bangladesh,bangladesh
 italia,lombardia,mantova,goito,germania,baienfurt
 italia,sardegna,sud sardegna,gonnesa,italia,collio
 italia,lombardia,mantova,gonzaga,francia,brioude
@@ -2319,8 +2296,6 @@ italia,emilia-romagna,modena,maranello,spagna,oviedo
 italia,emilia-romagna,modena,maranello,giappone,sakahogi
 italia,veneto,verona,marano di valpolicella,germania,appenheim
 italia,lazio,roma,marano equo,rd del congo,repubblica democratica del congo
-italia,lazio,roma,marano equo,romania,romania
-italia,lazio,roma,marano equo,macedonia del nord,macedonia del nord
 italia,friuli-venezia giulia,udine,marano lagunare,francia,schweighouse-sur-moder
 italia,emilia-romagna,modena,marano sul panaro,grecia,kofinas
 italia,basilicata,potenza,maratea,italia,cento
@@ -2419,7 +2394,6 @@ italia,lombardia,como,menaggio,germania,wolpertswende
 italia,sicilia,agrigento,menfi,italia,canelli
 italia,sicilia,agrigento,menfi,argentina,chivilcoy
 italia,sicilia,agrigento,menfi,germania,ettlingen
-italia,sicilia,agrigento,menfi,marocco,marocco
 italia,trentino-alto adige,bolzano,merano,austria,salisburgo
 italia,trentino-alto adige,bolzano,merano,rep. ceca,pardubice
 italia,lombardia,lecco,merate,francia,buzançais
@@ -2535,7 +2509,6 @@ italia,marche,pesaro e urbino,monte cerignone,italia,randazzo
 italia,lazio,roma,monte compatri,spagna,calahorra
 italia,campania,napoli,monte di procida,grecia,itaca
 italia,campania,napoli,monte di procida,italia,procida
-italia,campania,napoli,monte di procida,molise,molise
 italia,marche,ancona,monte roberto,francia,fontanil-cornillon
 italia,lazio,latina,monte san biagio,francia,saint-romain-le-puy
 italia,lazio,latina,monte san biagio,germania,übersee
@@ -2603,10 +2576,6 @@ italia,toscana,prato,montemurlo,sahara occidentale,bir lehlu
 italia,toscana,prato,montemurlo,italia,bovino
 italia,friuli-venezia giulia,udine,montenars,italia,arezzo
 italia,lazio,rieti,montenero sabino,europa,
-italia,lazio,rieti,montenero sabino,romania,romania
-italia,lazio,rieti,montenero sabino,filippine,filippine
-italia,lazio,rieti,montenero sabino,eritrea,eritrea
-italia,lazio,rieti,montenero sabino,venezuela,venezuela
 italia,marche,ascoli piceno,monteprandone,italia,castiglione delle stiviere
 italia,toscana,siena,montepulciano,francia,moulins
 italia,abruzzo,l'aquila,montereale,italia,belmonte in sabina
@@ -2738,10 +2707,6 @@ italia,lombardia,brescia,niardo,italia,reggiolo
 italia,lombardia,brescia,niardo,messico,città del messico
 italia,piemonte,torino,nichelino,francia,caluire-et-cuire
 italia,piemonte,torino,nichelino,malta,victoria
-italia,sicilia,enna,nicosia,romania,romania
-italia,sicilia,enna,nicosia,cina,cina
-italia,sicilia,enna,nicosia,bielorussia,bielorussia
-italia,sicilia,enna,nicosia,albania,albania
 italia,sicilia,caltanissetta,niscemi,slovenia,collio
 italia,piemonte,asti,nizza monferrato,italia,savignano sul rubicone
 italia,veneto,venezia,noale,italia,arta terme
@@ -2800,10 +2765,6 @@ italia,veneto,rovigo,occhiobello,francia,mennecy
 italia,veneto,rovigo,occhiobello,germania,renningen
 italia,veneto,treviso,oderzo,stati uniti,suffolk
 italia,lombardia,brescia,odolo,italia,gonnosfanadiga
-italia,piemonte,verbano-cusio-ossola,oggebbio,russia,russia
-italia,piemonte,verbano-cusio-ossola,oggebbio,germania,germania
-italia,piemonte,verbano-cusio-ossola,oggebbio,albania,albania
-italia,piemonte,verbano-cusio-ossola,oggebbio,ucraina,ucraina
 italia,lombardia,lecco,oggiono,germania,leisnig
 italia,lombardia,lecco,oggiono,ungheria,halásztelek
 italia,lazio,roma,olevano romano,russia,volgograd
@@ -2968,7 +2929,6 @@ italia,calabria,cosenza,paola,italia,susa
 italia,calabria,cosenza,paola,italia,assisi
 italia,calabria,cosenza,paola,italia,otranto
 italia,lombardia,milano,parabiago,croazia,samobor
-italia,lombardia,milano,parabiago,belize,belize
 italia,calabria,cosenza,parenti,italia,pagliarelle
 italia,piemonte,alessandria,pareto,cuba,cauto cristo
 italia,emilia-romagna,parma,parma,slovenia,lubiana
@@ -3044,38 +3004,6 @@ italia,veneto,verona,peschiera del garda,italia,ula tirso
 italia,toscana,pistoia,pescia,spagna,nerja
 italia,toscana,pistoia,pescia,francia,oullins
 italia,toscana,pistoia,pescia,italia,medicina
-italia,calabria,crotone,petilia policastro,romania,romania
-italia,calabria,crotone,petilia policastro,marocco,marocco
-italia,calabria,crotone,petilia policastro,bulgaria,bulgaria
-italia,calabria,crotone,petilia policastro,polonia,polonia
-italia,calabria,crotone,petilia policastro,cina,cina
-italia,calabria,crotone,petilia policastro,mali,mali
-italia,calabria,crotone,petilia policastro,siria,siria
-italia,calabria,crotone,petilia policastro,albania,albania
-italia,calabria,crotone,petilia policastro,gambia,gambia
-italia,calabria,crotone,petilia policastro,nigeria,nigeria
-italia,calabria,crotone,petilia policastro,ucraina,ucraina
-italia,calabria,crotone,petilia policastro,russia,russia
-italia,calabria,crotone,petilia policastro,afghanistan,afghanistan
-italia,calabria,crotone,petilia policastro,bangladesh,bangladesh
-italia,calabria,crotone,petilia policastro,francia,francia
-italia,calabria,crotone,petilia policastro,spagna,spagna
-italia,calabria,crotone,petilia policastro,ungheria,ungheria
-italia,calabria,crotone,petilia policastro,filippine,filippine
-italia,calabria,crotone,petilia policastro,costa d'avorio,costa d'avorio
-italia,calabria,crotone,petilia policastro,guinea,guinea
-italia,calabria,crotone,petilia policastro,brasile,brasile
-italia,calabria,crotone,petilia policastro,stati uniti,stati uniti
-italia,calabria,crotone,petilia policastro,germania,germania
-italia,calabria,crotone,petilia policastro,slovacchia,slovacchia
-italia,calabria,crotone,petilia policastro,bielorussia,bielorussia
-italia,calabria,crotone,petilia policastro,indonesia,indonesia
-italia,calabria,crotone,petilia policastro,iraq,iraq
-italia,calabria,crotone,petilia policastro,ghana,ghana
-italia,calabria,crotone,petilia policastro,senegal,senegal
-italia,calabria,crotone,petilia policastro,uganda,uganda
-italia,calabria,crotone,petilia policastro,eritrea,eritrea
-italia,calabria,crotone,petilia policastro,pakistan,pakistan
 italia,marche,macerata,petriolo,ungheria,mezőkövesd
 italia,marche,fermo,petritoli,italia,vidor
 italia,abruzzo,l'aquila,pettorano sul gizio,canada,hamilton
@@ -3293,7 +3221,6 @@ italia,veneto,vicenza,pozzoleone,grecia,schimatari
 italia,campania,napoli,pozzuoli,grecia,agios dimitrios
 italia,campania,napoli,pozzuoli,polonia,stettino
 italia,campania,napoli,pozzuoli,spagna,tarragona
-italia,campania,napoli,pozzuoli,abruzzo,abruzzo
 italia,campania,napoli,pozzuoli,crimea,jalta
 italia,campania,napoli,pozzuoli,italia,benevento
 italia,campania,napoli,pozzuoli,italia,pompei
@@ -3325,7 +3252,6 @@ italia,emilia-romagna,forlì-cesena,predappio,ungheria,kenderes
 italia,trentino-alto adige,trento,predazzo,italia,ferrere
 italia,trentino-alto adige,trento,predazzo,germania,hallbergmoos
 italia,lombardia,bergamo,premolo,italia,camerino
-italia,lombardia,bergamo,presezzo,haiti,haiti
 italia,lombardia,lecco,primaluna,francia,la roche-vineuse
 italia,sicilia,siracusa,priolo gargallo,stati uniti,new britain
 italia,sicilia,siracusa,priolo gargallo,polonia,oława
@@ -3586,7 +3512,6 @@ italia,veneto,treviso,salgareda,polonia,brzeziny
 italia,emilia-romagna,parma,salsomaggiore terme,tunisia,hammam-lif
 italia,emilia-romagna,parma,salsomaggiore terme,ucraina,jalta
 italia,emilia-romagna,parma,salsomaggiore terme,italia,cutro
-italia,lombardia,varese,saltrio,albania,albania
 italia,piemonte,vercelli,saluggia,italia,russi
 italia,piemonte,cuneo,saluzzo,polonia,łowicz (polonia)
 italia,piemonte,cuneo,saluzzo,argentina,silvio pellico (argentina)
@@ -3813,7 +3738,6 @@ italia,toscana,grosseto,santa fiora,italia,pozzuolo del friuli
 italia,sicilia,palermo,santa flavia,spagna,ondarroa
 italia,lombardia,pavia,santa giuletta,italia,mores
 italia,veneto,belluno,santa giustina,brasile,são valentim
-italia,sicilia,messina,santa lucia del mela,saint lucia,saint lucia
 italia,sicilia,messina,santa lucia del mela,bulgaria,plovdiv
 italia,sicilia,messina,santa lucia del mela,canada,lasalle
 italia,veneto,treviso,santa lucia di piave,francia,castanet-tolosan
