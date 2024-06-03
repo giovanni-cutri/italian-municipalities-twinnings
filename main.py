@@ -105,7 +105,7 @@ def save(tw_dictionary):
             else:
                 municipalities_without_twinnings.append([region, province, tw_dictionary[i]["name"]])
 
-    # save municipalities without twinnings in a list
+    # save municipalities without twinnings in a separate file
     with open("twinningless.csv", "w", newline='', encoding='utf-8') as f:
         twinningless_writer = csv.writer(f, delimiter=",")
         twinningless_writer.writerow(["country", "region", "province", "name"])
